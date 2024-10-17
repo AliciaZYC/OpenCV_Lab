@@ -4,20 +4,10 @@
 
 This lab focuses on **smoothing and blurring techniques** using OpenCV in Python. These techniques help **reduce noise** in images, improving feature extraction, edge detection, and object recognition.
 
-### Key Techniques
-
-1. **Averaging (Box Filter)**:
-   - Replaces each pixel by the average of its neighboring pixels.
-   - Useful for **basic noise reduction**.
-2. **Gaussian Blurring**:
-   - Applies a Gaussian function to the image.
-   - Preserves edges better than averaging.
-3. **Median Blurring**:
-   - Replaces pixel values with the **median** of the neighborhood.
-   - Effective for removing **salt-and-pepper noise**.
-4. **Bilateral Filtering**:
-   - Smooths the image while preserving edges.
-   - Useful for applications requiring noise reduction with **edge preservation**.
+- **Averaging (Box Filter)**: Replaces each pixel by the average of its neighboring pixels. Useful for **basic noise reduction**.
+- **Gaussian Blurring**: Applies a Gaussian function to the image. Preserves edges better than averaging.
+- **Median Blurring**: Replaces pixel values with the **median** of the neighborhood. Effective for removing **salt-and-pepper noise**.
+- **Bilateral Filtering**: Smooths the image while preserving edges. Useful for applications requiring noise reduction with **edge preservation**.
 
 ## Code Overview
 
