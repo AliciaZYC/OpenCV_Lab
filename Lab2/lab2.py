@@ -28,7 +28,7 @@ def display_images(img, gray_img):
 # 3. Save Images with OpenCV
 def save_images(img):
     # Save the color image with a new name
-    cv2.imwrite("lab_2_image.jpg", img)
+    cv2.imwrite("lab_2_image.jpg", gray_img)
     print("Image saved as lab_2_image.jpg")
 
 if __name__ == "__main__":
@@ -39,4 +39,4 @@ if __name__ == "__main__":
         display_images(img, gray_img)
 
         # Save the image
-        save_images(img)
+        save_images(gray_img)

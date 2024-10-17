@@ -29,3 +29,4 @@ cv2.ellipse(rotated_img, (w // 2, h // 2 + 200), (100, 50),
 cv2.imshow("Rotated Image with Shapes", rotated_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+cv2.imwrite("lab_3_practice_image.jpg", rotated_img)
