@@ -8,21 +8,15 @@
 - Ensure that the repository is well-organized, with separate folders or files for each lab.
 - Provide the repository link.
 
-# Grading
+## Lab Links
 
-1. Codes (40%):
-
-- Accuracy and functionality of the practice codes.
-- Inclusion of sample codes from the workshops.
-- Quality and complexity of additional codes.
-
-2. Documentation (40%):
-
-- Clarity and completeness of explanations and observations.
-- Proper use of markdown for documentation.
-- Logical organization and presentation of the content.
-
-3. Additional Information (20%):
-
-- Inclusion of additional examples or insights beyond the workshop content.
-- Creativity and depth of understanding demonstrated through additional codes or examples.
+- [Lab 2](https://github.com/AliciaZYC/OpenCV_Lab/tree/main/Lab2)
+- [Lab 3](https://github.com/AliciaZYC/OpenCV_Lab/tree/main/Lab3)
+- [Lab 4](https://github.com/AliciaZYC/OpenCV_Lab/tree/main/Lab4)
+- [Lab 5](https://github.com/AliciaZYC/OpenCV_Lab/tree/main/Lab5)
+- [Lab 6](https://github.com/AliciaZYC/OpenCV_Lab/tree/main/Lab6)
+- [Lab 7](https://github.com/AliciaZYC/OpenCV_Lab/tree/main/Lab7)
+- [Lab 8](https://github.com/AliciaZYC/OpenCV_Lab/tree/main/Lab8)
+- [Lab 9](https://github.com/AliciaZYC/OpenCV_Lab/tree/main/Lab9)
+- [Lab 10](https://github.com/AliciaZYC/OpenCV_Lab/tree/main/Lab10)
+- [Lab 11](https://github.com/AliciaZYC/OpenCV_Lab/tree/main/Lab11)
